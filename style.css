@@ -13,7 +13,7 @@ img {
 
 body {
   min-height: 100%;
-  background: rgb(235, 250, 201);
+  background: rgb(0, 0, 0);
   font-family: "Lato", sans-serif;
   font-weight: 400;
   color: #222;
@@ -24,7 +24,7 @@ body {
 
 .container {
   max-width: 700px;
-  background: rgb(247, 229, 130);
+  background: rgb(255, 255, 255);
   margin: 0px auto 0px;
   box-shadow: 1px 1px 2px #dad7d7;
   border-radius: 3px;
